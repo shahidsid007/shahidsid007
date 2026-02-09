@@ -20,7 +20,7 @@
  
  ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
 
- 📫 How to reach me: **shahidgul.dev@gmail.com**
+ 📫 How to reach me: **code.shahid11@gmail.com**
  
  </div>
  
